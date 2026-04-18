@@ -29,6 +29,6 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.SourceLink.GitHub" PrivateAssets="All" />
-    <PackageReference Include="Robust.Natives.Sdl3" />
+    <!-- <PackageReference Include="Robust.Natives.Sdl3" /> -->
   </ItemGroup>
 </Project>
